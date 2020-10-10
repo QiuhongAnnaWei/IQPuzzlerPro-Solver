@@ -1,5 +1,5 @@
 # IQPuzzlerPro
-This is an efficient solver of the IQ Puzzler Pro game that is extensible for self-designed pieces and boards.
+This is an efficient solver of the IQ Puzzler Pro game that is extensible for any 2D pieces and boards.
 
 
 ## To Run
@@ -10,5 +10,4 @@ Game.java is currently initialized for a particular challenge with the 5x11 rect
 ![IQ Puzzler Pro Board and Pieces](https://www.hamleys.com/images/_lib/image-150827-0.jpg)
 
 ## To Tailor to a Particular Problem
-The recursive algorithm of this solver can support any 2-D pieces and board layout. To apply its problem-solving utility for a particular problem, change the initialization functions in ```Game.java```'s main method.
-https://QiuhongAnnaWei:<token>@github.com/QiuhongAnnaWei/IQPuzzlerPro.git
+The recursive algorithm of this solver can support any 2D pieces and board layout. To apply its problem-solving utility for a particular problem, change the initialization functions in ```Game.java```'s main method.
